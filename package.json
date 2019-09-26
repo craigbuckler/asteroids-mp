@@ -1,0 +1,30 @@
+{
+  "name": "asteroids",
+  "version": "1.0.0",
+  "description": "multiplayer asteroids",
+  "main": "index.html",
+  "game": {
+    "webserverport": 8888,
+    "websocketport": 8889
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigbuckler/asteroids.git"
+  },
+  "keywords": [
+    "HTML5",
+    "game"
+  ],
+  "author": "Craig Buckler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/craigbuckler/asteroids/issues"
+  },
+  "homepage": "https://github.com/craigbuckler/asteroids#readme",
+  "dependencies": {
+    "ws": "7.1.2"
+  }
+}

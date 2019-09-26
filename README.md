@@ -1,2 +1,3 @@
-# asteroids-mp
-Asteroids multiplayer
+# Asteroids MP
+
+Asteroids multiplayer. Different game and experience to single player.
